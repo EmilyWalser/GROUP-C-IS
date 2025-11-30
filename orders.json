@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "pizza": "Margherita",
+    "size": "M",
+    "status": "confirmed",
+    "total": 12.50
+  },
+  {
+    "id": 2,
+    "pizza": "Diavola",
+    "size": "L",
+    "status": "confirmed",
+    "total": 17.50
+  },
+  {
+    "id": 3,
+    "pizza": "Prosciutto e Funghi",
+    "size": "S",
+    "status": "pending",
+    "total": 11.00
+  }
+]
